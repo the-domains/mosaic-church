@@ -1,0 +1,28 @@
+name: Mosaic Church
+favicon: null
+layout_spectrum: 0.20173466741107404
+typography_spectrum: 0.21465561189688742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2713841204531491
+  lightness: 0.9420718909241259
+  saturation: 0.3814900051802397
+  rhythmicContrast: 0.13780814409255981
+purpose: []
